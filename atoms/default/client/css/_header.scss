@@ -18,10 +18,10 @@
       mix-blend-mode: screen;
     }
     .bg {
-        height: 80vh;
+        height: 100vh;
         @include mq(tablet) {
             // height: 540px;
-            height: 93vh;
+            height: 114vh;
         }
       // position: absolute;
       // max-height: 545px;
